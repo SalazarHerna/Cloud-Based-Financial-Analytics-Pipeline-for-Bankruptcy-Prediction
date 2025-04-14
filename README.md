@@ -19,11 +19,16 @@ The model was used to evaluate 10 companies. Based on bankruptcy risk, investmen
 ## Insights
 
 ### Key Discoveries
-- **Retained Earnings to Total Assets** was the most important predictor of bankruptcy (16.46% impact).
-- **False positives** (79) were less costly in this context and aligned with a conservative investment approach.
+- **Retained Earnings to Total Assets** | Was the most important predictor of bankruptcy (16.46% impact).
+- **False positives** | Are less costly in this context and aligned with a conservative investment approach.
+- **Data Integration** | Joining data sets (financials, ratios, and bankruptcy filings) led to a more robust, centralized data repository.
+- **Automation Readiness** | Built the pipeline with future automation in mind, ensuring that the ETL process can be scaled easily when data ingestion volumes increase.
 
 ### Reflection
 Cloud tools enabled efficient data transformation, scalable storage, and rapid model deployment. The architecture was designed with **future automation in mind**, using serverless and scalable AWS services.
+
+## ML Model Results using AWS Sagemaker
+![Data Flow Diagram](https://github.com/SalazarHerna/Cloud-Based-Financial-Analytics-Pipeline-for-Bankruptcy-Prediction/blob/eb21ebb2e9ec799deb0f731da4410783004aef18/CloudTechnology%20AWS/DataFlow%20Diagram.jpeg)
 
 ---
 ## Project Description
