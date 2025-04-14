@@ -28,7 +28,7 @@ The model was used to evaluate 10 companies. Based on bankruptcy risk, investmen
 Cloud tools enabled efficient data transformation, scalable storage, and rapid model deployment. The architecture was designed with **future automation in mind**, using serverless and scalable AWS services.
 
 ## ML Model Results using AWS Sagemaker
-![Visual Description](
+![Visual Description](https://github.com/SalazarHerna/Cloud-Based-Financial-Analytics-Pipeline-for-Bankruptcy-Prediction/blob/9250191a90c58d3c74556cf677eccf3e35814084/CloudTechnology%20AWS/Sagemaker%20Model%20Results.jpeg)
 
 ---
 ## Project Description
