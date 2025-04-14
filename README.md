@@ -13,6 +13,8 @@ Developed **cloud-native data architecture on AWS** for MSBA Financial Group tha
 **Key Business Outcome:**  
 The model was used to evaluate 10 companies. Based on bankruptcy risk, investment was recommended for 3 companies with low-risk profiles.
 
+## Data Flow Diagram
+![Data Flow Diagram](https://github.com/SalazarHerna/Cloud-Based-Financial-Analytics-Pipeline-for-Bankruptcy-Prediction/blob/eb21ebb2e9ec799deb0f731da4410783004aef18/CloudTechnology%20AWS/DataFlow%20Diagram.jpeg)
 ---
 ## Insights
 
