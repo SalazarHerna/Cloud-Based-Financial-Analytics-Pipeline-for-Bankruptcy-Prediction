@@ -2,7 +2,9 @@
 
 A cloud-native data pipeline built on AWS to centralize financial data, perform exploratory analysis, and predict bankruptcy risk using machine learning. This project demonstrates end-to-end integration of S3, Glue, Redshift, and SageMaker Canvas, enabling data-driven investment decisions for publicly traded companies.
 
-- Presentation: [Cloud Pipeline Presentation](https://github.com/SalazarHerna/Cloud-Based-Financial-Analytics-Pipeline-for-Bankruptcy-Prediction/blob/d07b2766248dffd884d7255e9b05727d7c5f4707/CloudTechnology%20AWS/AWS%20Architecture_Final%20Project%20.pdf)
+- Presentation:
+[Cloud Pipeline Presentation](https://github.com/SalazarHerna/Cloud-Based-Financial-Analytics-Pipeline-for-Bankruptcy-Prediction/blob/d07b2766248dffd884d7255e9b05727d7c5f4707/CloudTechnology%20AWS/AWS%20Architecture_Final%20Project%20.pdf)
+
 ---
 ## What Was Achieved?
 Developed **cloud-native data architecture on AWS** for MSBA Financial Group that:
